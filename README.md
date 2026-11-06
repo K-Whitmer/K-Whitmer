@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Kyle Whitmer!
 
-<!--
-**K-Whitmer/K-Whitmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a Bachelors degree in Cybersecurity at GCU while developing my skills in IT, programming, and cybersecurity.
 
-Here are some ideas to get you started:
+### About Me
+- Cybersecurity student
+- Learning Python and PowerShell
+- Interested in cybersecurity, networking, and IT automation
+- Building hand-on project to develop practical IT skills
+- Long-term goal: SOC Analyst and eventually cybersecurity leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I'm Learning
+- Python
+- PowerShell
+- Windows
+- Linux
+- Git and GitHub
+
+### Current Projects
+- Python Experience Calculator
+- Python IT Ticketing Priority system
+- PowerShell IT Automation Projects {in development}
+
+### Career Interests
+IT Support | System Administration | Cybersecurity | SOC Operations
+I'm using this GitHub profile to document my learning journey, showcase projects, and continue developing practical technical skills.
